@@ -1,4 +1,4 @@
-package com.seuapp.model;
+package Senac.Receitas.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
