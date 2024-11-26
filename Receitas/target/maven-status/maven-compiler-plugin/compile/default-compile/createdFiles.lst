@@ -1,0 +1,4 @@
+Senac\Receitas\repository\ReceitaRepository.class
+Senac\Receitas\ReceitasApplication.class
+Senac\Receitas\models\Receita.class
+Senac\Receitas\controllers\ReceitaController.class
